@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <!-- 数据源配置等其他配置 -->
+
+    <!-- 指定映射文件的路径 -->
+<!--    <mappers>-->
+<!--        <mapper resource="mapper/Player.xml" />-->
+<!--        <mapper resource="mapper/GameMapper.xml" />-->
+<!--        &lt;!&ndash; 你可以添加更多的映射文件路径，如果有多个映射文件 &ndash;&gt;-->
+<!--    </mappers>-->
+</configuration>
