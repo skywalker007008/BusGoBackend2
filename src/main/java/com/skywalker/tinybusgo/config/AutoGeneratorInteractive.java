@@ -24,7 +24,7 @@ public class AutoGeneratorInteractive {
         FastAutoGenerator.create(jdbcURL, username, password)
                 // 全局配置
                 .globalConfig((scanner, builder) -> builder.author(scanner.apply("请输入作者名称？"))
-                        .enableSwagger()
+//                        .enableSwagger()
                         .disableOpenDir()
                         //.fileOverride()/ 以失效
                         .outputDir("E://IdeaProject//Go Platform//SimpleBusGoBackend//src//main//java"))
